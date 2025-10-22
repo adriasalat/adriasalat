@@ -6,7 +6,7 @@ Currently diving deep into how systems work — from **Assembly** to **C**, and 
 ## 🛠️ Technologies I work with
 - **Languages:** Java, Python, C, ARM Assembly
 - **Version Control:** Git & GitHub (Git Bash)
-- **Tools & Environments:** VSCode, Windows
+- **Tools & Environments:** VSCode, Windows, Linux
 - **Databases:** PostgreSQL, MongoDB
 
 ## 🧠 Computer Science knowledge

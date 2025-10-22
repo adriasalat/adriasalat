@@ -28,9 +28,6 @@ This is my personal space to:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adriasalat&theme=merko)](https://git.io/streak-stats)
 *My overall GitHub activity*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adriasalat&layout=compact&theme=merko)
-*Languages I code with the most*
-
 ## 📫 Let's connect!
 Feel free to reach out or learn more about me:
 

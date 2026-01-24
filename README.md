@@ -24,10 +24,6 @@ This is my personal space to:
 - Showcase my progress
 - Document my learning journey
 
-## 📊 GitHub Status
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=adriasalat&theme=merko)](https://git.io/streak-stats)
-*My overall GitHub activity*
-
 ## 📫 Let's connect!
 Feel free to reach out or learn more about me:
 

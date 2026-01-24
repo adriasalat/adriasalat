@@ -7,7 +7,7 @@ Currently diving deep into how systems work — from **Assembly** to **C**, and 
 - **Languages:** Java, Python, C, ARM Assembly
 - **Version Control:** Git & GitHub (Git Bash)
 - **Tools & Environments:** VSCode, Windows, Linux
-- **Databases:** PostgreSQL, MongoDB
+- **Databases:** PostgreSQL, MongoDB, REDIS, InfluxDB
 
 ## 🧠 Computer Science knowledge
 - Computer Architecture
